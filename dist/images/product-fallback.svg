@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600" fill="none">
+  <rect width="800" height="600" fill="#EEF3E9"/>
+  <circle cx="401" cy="275" r="172" fill="#DDEAD2"/>
+  <path d="M259 308h284l-23 142H282l-23-142Z" fill="#fff" stroke="#71936D" stroke-width="8" stroke-linejoin="round"/>
+  <path d="m306 307 28-83c13-38 35-58 67-58s54 20 67 58l28 83" stroke="#71936D" stroke-width="11" stroke-linecap="round"/>
+  <path d="M316 366c23-19 44-19 67 0s44 19 67 0 44-19 67 0" stroke="#B6D18D" stroke-width="13" stroke-linecap="round"/>
+  <circle cx="344" cy="274" r="24" fill="#88B475"/>
+  <circle cx="400" cy="255" r="28" fill="#EDC36E"/>
+  <circle cx="456" cy="276" r="23" fill="#CC826D"/>
+  <text x="400" y="506" text-anchor="middle" fill="#58735A" font-family="Arial,sans-serif" font-size="21" font-weight="700" letter-spacing="3">LOCAL DEMO FIND</text>
+</svg>
